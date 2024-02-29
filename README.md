@@ -1,5 +1,5 @@
-## descargar docker
-[docker pull seagon0912/first](docker pull seagon0912/first).
+## REPOSITORIO
+docker run -d -p 46000:46000 --name first seagon0912/first:tagname
 
 ## Pruebas 
 
