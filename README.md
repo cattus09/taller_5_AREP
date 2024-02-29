@@ -3,4 +3,4 @@
 
 ## Pruebas 
 
-![Iniciar](src/main/resources/static/p1.png)
+![Iniciar](src/main/resources/static/p1.PNG)
